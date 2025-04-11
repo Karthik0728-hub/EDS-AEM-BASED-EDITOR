@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4504//bin/franklin.delivery/Karthik0728-hub/EDS-AEM-BASED-EDITOR/main"
+    url: "http://localhost:4504/bin/franklin.delivery/Karthik0728-hub/EDS-AEM-BASED-EDITOR/main"
     type: "markup"
     suffix: ".html"
